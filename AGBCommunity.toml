@@ -1,0 +1,60 @@
+title = "AdGoBye Community Ads"
+description = "Ads / Posters which are related to a specific world or community in that world (such as events or Discord links)"
+maintainer = "https://zombo.com"
+
+[[block]]
+friendly_name = "Default Home"
+world_id = "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd"
+game_objects = [{ name = "posterlight (8)" }]
+
+[[block]]
+friendly_name = "Movie & Chill"
+world_id = "wrld_791ebf58-54ce-4d3a-a0a0-39f10e1b20b2"
+game_objects = [{ name = "Label (2)" }]
+
+[[block]]
+friendly_name = "The Black Cat"
+world_id = "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b"
+game_objects = [
+    { name = "Canvas", parent = { name = "ProTV" } },
+    # There's a cash register at spawn that has browser tabs to the creator's pages.
+    # Open by default is ProTV which has actual function, we can hide the tabs by disabling "Canvas Icons"
+    # However, the user might lock themselves out if they close the current tab which is why we disable "x button (1)"
+    { name = "x button (1)", parent = { name = "UI (1)" } },
+    { name = "Canvas Icons" },
+    { name = "cork medium", position = { x = 26.773, y = 3.244, z = -13.982 } },
+    { name = "cork medium", position = { x = -0.377, y = 2.653, z = 4.913704 } },
+]
+
+[[block]]
+friendly_name = "Furry Hideout"
+world_id = "wrld_4b341546-65ff-4607-9d38-5b7f8f405132"
+game_objects = [
+    { name = "PPSUI (2)" },
+    { name = "Cube (5)" },
+    { name = "Canvas (3)" }
+]
+
+[[block]]
+friendly_name = "Furry Talk and Chill"
+world_id = "wrld_e76f0ce1-8b2f-4fd7-a6ac-84443d6f26f1"
+game_objects = [{ name = "Bottom Tex" }] # actual object name
+
+[[block]]
+friendly_name = "Murder 4"
+world_id = "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe"
+game_objects = [{ name = "Link (2)" }]
+
+[[block]]
+friendly_name = "Prison Escape!"
+world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
+game_objects = [
+    { name = "Group Sign" },
+    { name = "Image (1)", position = { x = -78.4, y = -95, z = 0 }, parent = { name = "Panel" }  },
+    { name = "Image (2)", position = { x = -140, y = -135, z = 0 }, parent = { name = "Panel" }  },
+    { name = "Image (3)", position = { x = -175, y = -175, z = 0 }, parent = { name = "Panel" }  },
+    
+    { name = "Text (TMP)", position = { x = -2.5, y = -95, z = 0 }, parent = { name = "Panel" }  },
+    { name = "Text (TMP) (1)", position = { x = 14, y = -135, z = 0 }, parent = { name = "Panel" }  },
+    { name = "Text (TMP) (2)", position = { x = 18, y = -175, z = 0 }, parent = { name = "Panel" }  }
+]
