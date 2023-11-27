@@ -74,9 +74,26 @@ game_objects = [
 [[block]]
 friendly_name = "Prison Escape!"
 world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
-game_objects = [{name = "Posters"}]
+game_objects = [{ name = "Posters" }]
 
 [[block]]
 friendly_name = "Pocket Storm"
 world_id = "wrld_4c64a2fa-2916-4491-8764-11221af96f98"
-game_objects = [{name = "ads (1) Variant"}]
+game_objects = [{ name = "ads (1) Variant" }]
+
+[[block]]
+friendly_name = "Just B Club 3"
+world_id = "wrld_e6569266-21cd-4275-8aef-47fcb7458931"
+game_objects = [
+    { name = "Discord TV Ad (2)" },
+    { name = "TV vertical" },
+    { name = "TV vertical (3)" },
+    { name = "TV vertical (4)" },
+    { name = "TV vertical (5)" },
+    { name = "TV vertical (6)" },
+    { name = "TV vertical (7)" },
+    { name = "TV vertical (8)" },
+    { name = "TV vertical (9)" },
+    { name = "TV vertical (10)" },
+    { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -58.21133 } }
+]
