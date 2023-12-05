@@ -16,12 +16,6 @@ game_objects = [{ name = "Label (2)" }]
 friendly_name = "The Black Cat"
 world_id = "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b"
 game_objects = [
-    { name = "Canvas", parent = { name = "ProTV" } },
-    # There's a cash register at spawn that has browser tabs to the creator's pages.
-    # Open by default is ProTV which has actual function, we can hide the tabs by disabling "Canvas Icons"
-    # However, the user might lock themselves out if they close the current tab which is why we disable "x button (1)"
-    { name = "x button (1)", parent = { name = "UI (1)" } },
-    { name = "Canvas Icons" },
     { name = "cork medium", position = { x = 26.773, y = 3.244, z = -13.982 } },
     { name = "cork medium", position = { x = -0.377, y = 2.653, z = 4.913704 } },
 ]
