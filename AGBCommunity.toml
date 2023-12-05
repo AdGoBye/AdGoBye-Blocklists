@@ -44,20 +44,19 @@ friendly_name = "Prison Escape!"
 world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
 game_objects = [
     { name = "Group Sign" },
-    { name = "Image (1)", position = { x = -78.4, y = -95, z = 0 }, parent = { name = "Panel" }  },
-    { name = "Image (2)", position = { x = -140, y = -135, z = 0 }, parent = { name = "Panel" }  },
-    { name = "Image (3)", position = { x = -175, y = -175, z = 0 }, parent = { name = "Panel" }  },
-    
-    { name = "Text (TMP)", position = { x = -2.5, y = -95, z = 0 }, parent = { name = "Panel" }  },
-    { name = "Text (TMP) (1)", position = { x = 14, y = -135, z = 0 }, parent = { name = "Panel" }  },
-    { name = "Text (TMP) (2)", position = { x = 18, y = -175, z = 0 }, parent = { name = "Panel" }  }
+    { name = "Image (1)", position = { x = -78.4, y = -95, z = 0 }, parent = { name = "Panel" } },
+    { name = "Image (2)", position = { x = -140, y = -135, z = 0 }, parent = { name = "Panel" } },
+    { name = "Image (3)", position = { x = -175, y = -175, z = 0 }, parent = { name = "Panel" } },
+    { name = "Text (TMP)", position = { x = -2.5, y = -95, z = 0 }, parent = { name = "Panel" } },
+    { name = "Text (TMP) (1)", position = { x = 14, y = -135, z = 0 }, parent = { name = "Panel" } },
+    { name = "Text (TMP) (2)", position = { x = 18, y = -175, z = 0 }, parent = { name = "Panel" } }
 ]
 
 [[block]]
 friendly_name = "Just B Club 3"
 world_id = "wrld_e6569266-21cd-4275-8aef-47fcb7458931"
 game_objects = [
-    {name = "Discord TV Ad (1)"},
-    {name = "TV Prefab UNIQUE", position = {x = -4.366071, y = 3.072498, z = -54.21133}},
-    {name = "Poster (9)", parent = {name = "Poster (9)"}}
+    { name = "Discord TV Ad (1)" },
+    { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -54.21133 } },
+    { name = "Poster (9)", parent = { name = "Poster (9)" } }
 ]

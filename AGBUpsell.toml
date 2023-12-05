@@ -35,9 +35,9 @@ game_objects = [
 [[block]]
 friendly_name = "Xross Discs R4"
 world_id = "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7"
-game_objects = [{name = "UdonProducts"}]
+game_objects = [{ name = "UdonProducts" }]
 
 [[block]]
 friendly_name = "Xross Discs R3"
 world_id = "wrld_aaa5df94-3b62-4463-814f-f269ea8ac7b1"
-game_objects = [{name = "UdonProducts"}]
+game_objects = [{ name = "UdonProducts" }]
