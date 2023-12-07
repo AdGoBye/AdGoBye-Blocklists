@@ -105,3 +105,11 @@ game_objects = [
     { name = "TV vertical (10)" },
     { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -58.21133 } }
 ]
+
+[[block]]
+friendly_name = "Vket2023W Parareal London"
+world_id = "wrld_9eb712f4-4305-4d19-8c74-47835730ecbf"
+game_objects = [
+    { name = "Nevermet Host Functionality" },
+    { name = "Nevermet" }
+]
