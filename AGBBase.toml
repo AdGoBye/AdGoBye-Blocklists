@@ -8,8 +8,8 @@ world_id = "wrld_1b68f7a8-8aea-4900-b7a2-3fc4139ac817"
 game_objects = [{ name = "ADs" }]
 
 [[block]]
-friendly_name = "Movie & Chill"
-world_id = "wrld_791ebf58-54ce-4d3a-a0a0-39f10e1b20b2"
+friendly_name = "Movie & Chill (Youtube)"
+world_id = "wrld_82ddecd1-2897-47cd-8508-d3f67dc76fe4"
 game_objects = [
     { name = "PosterManager" },
     { name = "PhotoViewer" },
