@@ -5,8 +5,10 @@ maintainer = "https://zombo.com"
 [[block]]
 friendly_name = "The Black Cat"
 world_id = "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b"
-# This disables the actual check for now, which works great but probably requires a proper version post-launch
-game_objects = [{ name = "CreatorEconomy_enabled_check" }]
+game_objects = [
+    { name = "CE UI" },
+    { name = "tip jar"}
+]
 
 [[block]]
 friendly_name = "VirtualFurence Furry Convention Hotel Estrel Berlin"
