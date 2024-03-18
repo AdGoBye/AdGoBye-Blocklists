@@ -43,3 +43,10 @@ game_objects = [{ name = "UdonProducts" }]
 friendly_name = "Xross Discs R3"
 world_id = "wrld_aaa5df94-3b62-4463-814f-f269ea8ac7b1"
 game_objects = [{ name = "UdonProducts" }]
+
+[[block]]
+friendly_name = "Furry Hideout"
+world_id = "wrld_4b341546-65ff-4607-9d38-5b7f8f405132"
+game_objects = [
+    { name = "Canvas (3)", position = { x = -38.71497, y = 43.23, z = -10.41 }}
+]
