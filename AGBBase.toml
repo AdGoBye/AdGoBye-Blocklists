@@ -4,7 +4,7 @@ maintainer = "https://zombo.com"
 
 [[block]]
 friendly_name = "LSMedia"
-world_id = "wrld_74970324-58e8-4239-a17b-2c59dfdf00db"
+world_id = "wrld_f767d1c8-b249-4ecc-a56f-614e433682c8"
 game_objects = [{ name = "ADs" }]
 
 [[block]]
