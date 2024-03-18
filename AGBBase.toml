@@ -31,9 +31,6 @@ friendly_name = "Default Home"
 world_id = "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd"
 game_objects = [
     { name = "posterlight (10)" },
-    # Plush advertisements, remove when promption ends
-    { name = "_Details_Core_MS2023" },
-    { name = "ACTUAL_SIZE" }
 ]
 
 [[block]]
