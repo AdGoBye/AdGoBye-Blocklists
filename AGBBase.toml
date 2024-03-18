@@ -8,17 +8,6 @@ world_id = "wrld_f767d1c8-b249-4ecc-a56f-614e433682c8"
 game_objects = [{ name = "ADs" }]
 
 [[block]]
-friendly_name = "Movie & Chill (Youtube)"
-world_id = "wrld_82ddecd1-2897-47cd-8508-d3f67dc76fe4"
-game_objects = [
-    { name = "PosterManager" },
-    { name = "PhotoViewer" },
-    { name = "PhotoViewer (1)" },
-    { name = "PhotoViewer (2)" },
-    { name = "PhotoViewer (3)" }
-]
-
-[[block]]
 friendly_name = "Popcorn Palace"
 world_id = "wrld_266523e8-9161-40da-acd0-6bd82e075833"
 game_objects = [
