@@ -109,3 +109,12 @@ world_id = "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9"
 game_objects = [
     { name = "Neverphone" }
 ]
+
+[[block]]
+friendly_name = "The room of the rain"
+world_id = "wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a"
+game_objects = [
+    { name = "Neverphone" }, # removes the phone
+    { name = "Horizontal_poster"}, # removes the horizontal nevermet poster
+    { name = "Quad (1)"} # removes the vertical SlimeVR poster
+]
