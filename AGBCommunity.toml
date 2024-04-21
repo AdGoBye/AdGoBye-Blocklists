@@ -58,3 +58,14 @@ game_objects = [
     { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -54.21133 } },
     { name = "Poster (9)", parent = { name = "Poster (9)" } }
 ]
+
+[[block]]
+friendly_name = "The room of the rain"
+world_id = "wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a"
+game_objects = [
+    { name = "Neverphone" },
+    { name = "Patreon ui", parent = { name = "Patreon Things" } }, # removes the UI with patreon only settings
+    { name = "Patreon panel", parent = { name = "Patreon Things" } }, # removes the auto scrolling image board of patreon subscribers
+    { name = "Patreon texture Changer", parent = { name = "Patreon Things" } }, # removes texture changer for the patreon panel to avoid Udon exceptions for missing refrences
+    { name = "Patreon texture Changer (1)", parent = { name = "Patreon Things" } },
+]
