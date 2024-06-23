@@ -11,11 +11,6 @@ game_objects = [
 ]
 
 [[block]]
-friendly_name = "Default Home"
-world_id = "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd"
-game_objects = [{ name = "posterlight (8)" }]
-
-[[block]]
 friendly_name = "Movie & Chill"
 world_id = "wrld_791ebf58-54ce-4d3a-a0a0-39f10e1b20b2"
 game_objects = [{ name = "Label (2)" }]
