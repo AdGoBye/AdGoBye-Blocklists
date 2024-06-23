@@ -34,3 +34,14 @@ world_id = "wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd"
 game_objects = [
     { name = "patreon frames" },
 ]
+
+[[block]]
+friendly_name = "Midnight Rooftop"
+world_id = "wrld_d29bb0d0-d268-42dc-8365-926f9d485505"
+game_objects = [
+    { name = "SupporterBillboard_GroupA_01" },
+    { name = "SupporterBillboard_GroupA_02" },
+    { name = "SupporterBillboard_GroupB_01" },
+    { name = "SupporterBillboard_GroupB_02" },
+    { name = "PatreonLists"}
+]
