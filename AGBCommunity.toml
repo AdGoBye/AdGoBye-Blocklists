@@ -3,6 +3,14 @@ description = "Ads / Posters which are related to a specific world or community 
 maintainer = "https://zombo.com"
 
 [[block]]
+friendly_name = "LSMedia"
+world_id = "wrld_f767d1c8-b249-4ecc-a56f-614e433682c8"
+game_objects = [
+    { name = "Supporters_Images" },
+    { name = "BillBoard" },
+]
+
+[[block]]
 friendly_name = "Default Home"
 world_id = "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd"
 game_objects = [{ name = "posterlight (8)" }]
