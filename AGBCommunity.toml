@@ -11,7 +11,10 @@ game_objects = [{ name = "Label (2)" }]
 friendly_name = "The Black Cat"
 world_id = "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b"
 game_objects = [
-    { name = "cork medium", position = { x = 26.773, y = 3.244, z = -13.982 } }
+    { name = "cork medium", position = { x = 26.773, y = 3.244, z = -13.982 } },
+    { name = "Join Group", position = { x = 16.313, y = 5.108995, z = -7.607 } },
+    { name = "SGB Corkboard" },
+    { name = "POS" }
 ]
 
 [[block]]
