@@ -35,28 +35,13 @@ game_objects = [{ name = "Promotional" }]
 friendly_name = "Midnight Rooftop"
 world_id = "wrld_d29bb0d0-d268-42dc-8365-926f9d485505"
 game_objects = [
-    { name = "Stairwell_Billboard_Nevermet" },
-    { name = "Nevermet Hostess Functionality" },
-    { name = "SpawnHallway_Posters" },
-    { name = "Nevermet Distance Disable" },
-    # Spawn Hallway Wall Lamps
-    { name = "Leukon_Wall (4)" },
-    { name = "Leukon_Wall (5)" },
-    { name = "Leukon_Wall (6)" },
-    { name = "Leukon_Wall (7)" },
-    { name = "Leukon_Wall (8)" },
-    { name = "Leukon_Wall (9)" },
-    { name = "Leukon_Wall (10)" },
-    { name = "Leukon_Wall (11)" },
-    { name = "Leukon_Wall (12)" },
-    { name = "Leukon_Wall (13)" },
-    { name = "Leukon_Wall (14)" },
-    { name = "Leukon_Wall (15)" },
-    # Networked ads
-    { name = "Stairwell_Billboard_Ad" },
-    { name = "Bar_Billboard_Ad" },
-    { name = "Bar_Billboard_NoneAd" },
-    { name = "Stairwell_Billboard_NoneAd" }
+    # Branding on the poor dog, the Nevermet marketing team needs less crack
+    { name = "logo 400x400 (1)"},
+    { name = "NeverMetLogoFixedWhite"},
+    
+    { name = "Nevermet Billboard" },
+    { name = "Billboard Downloader - Nevermet"}, # probably overkill but let's do it anyway
+    { name = "SpawnPosters Downloader" }
 ]
 
 [[block]]
