@@ -1,0 +1,36 @@
+title = "AdGoBye Supporters"
+description = "World supporter boards or supporter images"
+maintainer = "https://zombo.com"
+
+[[block]]
+friendly_name = "LSMedia"
+world_id = "wrld_f767d1c8-b249-4ecc-a56f-614e433682c8"
+game_objects = [
+    { name = "Supporters_Images" },
+    { name = "BillBoard" },
+]
+
+[[block]]
+friendly_name = "The room of the rain"
+world_id = "wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a"
+game_objects = [
+    { name = "Patreon ui", parent = { name = "Patreon Things" } }, # removes the UI with patreon only settings
+    { name = "Patreon panel", parent = { name = "Patreon Things" } }, # removes the auto scrolling image board of patreon subscribers
+    { name = "Patreon texture Changer", parent = { name = "Patreon Things" } }, # removes texture changer for the patreon panel to avoid Udon exceptions for missing refrences
+    { name = "Patreon texture Changer (1)", parent = { name = "Patreon Things" } },
+]
+
+[[block]]
+friendly_name = "The Black Cat"
+world_id = "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b"
+game_objects = [
+    { name = "plaque" },
+    { name = "Contributor Name Canvas" }
+]
+
+[[block]]
+friendly_name = "Sovren's Chill home"
+world_id = "wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd"
+game_objects = [
+    { name = "patreon frames" },
+]
