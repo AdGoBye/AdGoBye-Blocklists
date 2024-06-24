@@ -40,13 +40,8 @@ game_objects = [{ name = "Link (2)" }]
 friendly_name = "Prison Escape!"
 world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
 game_objects = [
-    { name = "Group Sign" },
-    { name = "Image (1)", position = { x = -78.4, y = -95, z = 0 }, parent = { name = "Panel" } },
-    { name = "Image (2)", position = { x = -140, y = -135, z = 0 }, parent = { name = "Panel" } },
-    { name = "Image (3)", position = { x = -175, y = -175, z = 0 }, parent = { name = "Panel" } },
-    { name = "Text (TMP)", position = { x = -2.5, y = -95, z = 0 }, parent = { name = "Panel" } },
-    { name = "Text (TMP) (1)", position = { x = 14, y = -135, z = 0 }, parent = { name = "Panel" } },
-    { name = "Text (TMP) (2)", position = { x = 18, y = -175, z = 0 }, parent = { name = "Panel" } }
+    { name = "Creator Sign"},
+    { name = "Creator Sign (1)"}
 ]
 
 [[block]]
