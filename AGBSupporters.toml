@@ -62,3 +62,10 @@ world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
 game_objects = [
     {name = "Patrons Sign"}
 ]
+
+[[block]]
+friendly_name = "Pocket Storm"
+world_id = "wrld_4c64a2fa-2916-4491-8764-11221af96f98"
+game_objects = [
+    {name = "GameObject", parent = {name = "Panel3"}}
+]
