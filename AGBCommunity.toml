@@ -22,7 +22,8 @@ friendly_name = "Furry Hideout"
 world_id = "wrld_4b341546-65ff-4607-9d38-5b7f8f405132"
 game_objects = [
     { name = "PPSUI (2)" },
-    { name = "Cube (5)", position = {x = -29.597, y = 44.894, z = 6.501}}
+    { name = "Cube (5)", position = {x = -29.597, y = 44.894, z = 6.501}},
+    { name = "Ui Board (1)", position = {x = 0, y = 0, z = 21.106989}}
 ]
 
 [[block]]
