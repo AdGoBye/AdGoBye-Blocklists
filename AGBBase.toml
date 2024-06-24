@@ -78,7 +78,7 @@ game_objects = [
     { name = "TV vertical (8)" },
     { name = "TV vertical (9)" },
     { name = "TV vertical (10)" },
-    { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -58.21133 } }
+    { name = "TV Prefab UNIQUE", position = { x = -4.3660707, y = 3.0724978, z = -58.21133 } },
 ]
 
 [[block]]
