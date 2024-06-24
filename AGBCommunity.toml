@@ -65,3 +65,10 @@ game_objects = [{ name = "Community Canvas" }]
 friendly_name = "GeoLocator Remapped"
 world_id = "wrld_8abba687-ebfd-4356-846d-d069976df375"
 game_objects = [{ name = "Promo" }]
+
+[[block]]
+friendly_name = "Idle Home"
+world_id = "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0"
+game_objects = [
+    { name = "Links" }
+]
