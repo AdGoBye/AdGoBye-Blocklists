@@ -55,3 +55,10 @@ game_objects = [
     { name = "RoleBoardV2"},
     { name = "Links"}
 ]
+
+[[block]]
+friendly_name = "Prison Escape!"
+world_id = "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a"
+game_objects = [
+    {name = "Patrons Sign"}
+]
