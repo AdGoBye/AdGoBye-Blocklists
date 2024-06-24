@@ -96,3 +96,8 @@ world_id = "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe"
 game_objects = [
     { name = "Patreon Canvas" }
 ]
+
+[[block]]
+friendly_name = "GeoLocator Remapped"
+world_id = "wrld_8abba687-ebfd-4356-846d-d069976df375"
+game_objects = [{ name = "PatreonBoard" }]
