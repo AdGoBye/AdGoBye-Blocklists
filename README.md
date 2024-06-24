@@ -13,6 +13,6 @@ In order to install them into your AGB installation, add them to `BlocklistURLs`
 "https://raw.githubusercontent.com/AdGoBye/AdGoBye-Blocklists/main/AGBBase.toml",
 "https://raw.githubusercontent.com/AdGoBye/AdGoBye-Blocklists/main/AGBCommunity.toml",
 "https://raw.githubusercontent.com/AdGoBye/AdGoBye-Blocklists/main/AGBUpsell.toml",
-"https://raw.githubusercontent.com/AdGoBye/AdGoBye-Blocklists/main/AdbCommunity.toml"
+"https://raw.githubusercontent.com/AdGoBye/AdGoBye-Blocklists/main/AGBSupporters.toml"
 ]
 ```
