@@ -89,3 +89,10 @@ world_id = "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5"
 game_objects = [
     { name = "Scroll View" },
 ]
+
+[[block]]
+friendly_name = "Murder 4"
+world_id = "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe"
+game_objects = [
+    { name = "Patreon Canvas" }
+]
