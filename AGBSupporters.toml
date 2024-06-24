@@ -82,3 +82,10 @@ game_objects = [
 friendly_name = "VirtualFurence Furry Convention Hotel Estrel Berlin"
 world_id = "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b"
 game_objects = [{ name = "SupporterList" }]
+
+[[block]]
+friendly_name = "Zombie Survival"
+world_id = "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5"
+game_objects = [
+    { name = "Scroll View" },
+]
