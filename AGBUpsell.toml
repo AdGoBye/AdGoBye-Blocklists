@@ -26,7 +26,13 @@ game_objects = [
 [[block]]
 friendly_name = "GeoLocator Remapped"
 world_id = "wrld_8abba687-ebfd-4356-846d-d069976df375"
-game_objects = [{ name = "CreatorEconomyManager" }]
+game_objects = [
+    { name = "Customization" },
+    { name = "MenuPanelCustomizationColorPicker"},
+    # Aggressive fix but the meshes for PatreonBoard and Customization aren't split
+    { name = "MenuPanelCustomization" },
+    { name = "PinPedestalCustomization"}
+]
 
 [[block]]
 friendly_name = "Idle Home"
