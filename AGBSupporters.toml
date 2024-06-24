@@ -77,3 +77,8 @@ game_objects = [
     # UI dynamically renabled here, so we'll need to disable the children instead.
     { name = "Panel", parent =  { name = "2.0 Patreon Canvas" } },
 ]
+
+[[block]]
+friendly_name = "VirtualFurence Furry Convention Hotel Estrel Berlin"
+world_id = "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b"
+game_objects = [{ name = "SupporterList" }]
