@@ -48,9 +48,9 @@ game_objects = [
 friendly_name = "Furry Hideout"
 world_id = "wrld_4b341546-65ff-4607-9d38-5b7f8f405132"
 game_objects = [
-    { name = "MeshBaker (0)-mesh-mesh (2)", position = { x = 78.925, y = -70.151, z = -128.275 } },
-    { name = "MeshBaker (0)-mesh-mesh", position = { x = -0.043, y = 0.013, z = 0.03299999 } },
-    { name = "MeshBaker (0)-mesh-mesh (1)", position = { x = 151.96, y = 102.675, z = -275.02 } },
+    { name = "MeshBaker (0)-mesh-mesh (2)", position = { x = 47.52362, y = -116.42, z = -118 } },
+    { name = "MeshBaker (0)-mesh-mesh", position = { x = 24.88094, y = -46.38, z = 1.139989 } },
+    { name = "MeshBaker (0)-mesh-mesh (1)", position = { x = 176.8839, y = 56.29525, z = -273.913 } },
     { name = "Cube (9)" }
 ]
 
