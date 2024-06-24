@@ -79,6 +79,9 @@ game_objects = [
     { name = "TV vertical (9)" },
     { name = "TV vertical (10)" },
     { name = "TV Prefab UNIQUE", position = { x = -4.3660707, y = 3.0724978, z = -58.21133 } },
+    # UI dynamically renabled here, so we'll need to disable the children instead.
+    # This one is a collateral, but we lack a unique identifier to cleanly disable the ads on this. Really unfortunate.
+    { name = "Flyer Grid", parent = { name = "Flyer Canvas"}},
 ]
 
 [[block]]
