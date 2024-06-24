@@ -52,3 +52,8 @@ game_objects = [
     { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -54.21133 } },
     { name = "Poster (9)", parent = { name = "Rooftop" } }
 ]
+
+[[block]]
+friendly_name = "Zombie Survival"
+world_id = "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5"
+game_objects = [{ name = "Community Canvas" }]
