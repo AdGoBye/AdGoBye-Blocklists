@@ -18,7 +18,10 @@ game_objects = [{ name = "CE_AD" }]
 [[block]]
 friendly_name = "Zombie Survival"
 world_id = "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5"
-game_objects = [{ name = "OpenGroupPageStorePrefab" }]
+game_objects = [
+    { name = "Supporter Rewards" },
+    { name = "Buttons", parent = { name = "Patron Canvas" } }
+]
 
 [[block]]
 friendly_name = "GeoLocator Remapped"
