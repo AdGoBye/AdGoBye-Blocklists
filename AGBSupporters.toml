@@ -69,3 +69,11 @@ world_id = "wrld_4c64a2fa-2916-4491-8764-11221af96f98"
 game_objects = [
     {name = "GameObject", parent = {name = "Panel3"}}
 ]
+
+[[block]]
+friendly_name = "Just B Club 3"
+world_id = "wrld_e6569266-21cd-4275-8aef-47fcb7458931"
+game_objects = [
+    # UI dynamically renabled here, so we'll need to disable the children instead.
+    { name = "Panel", parent =  { name = "2.0 Patreon Canvas" } },
+]
