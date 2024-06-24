@@ -13,8 +13,7 @@ game_objects = [
 [[block]]
 friendly_name = "VirtualFurence Furry Convention Hotel Estrel Berlin"
 world_id = "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b"
-# CEBoard is toggled dynamically based on CE support, so let's disable everything under it and think of a better system later
-game_objects = [{ name = "Canvas", parent = { name = "CEBoard" } }]
+game_objects = [{ name = "CE_AD" }]
 
 [[block]]
 friendly_name = "Zombie Survival"
