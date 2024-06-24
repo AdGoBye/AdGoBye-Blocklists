@@ -34,7 +34,10 @@ game_objects = [{ name = "Bottom Tex" }] # actual object name
 [[block]]
 friendly_name = "Murder 4"
 world_id = "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe"
-game_objects = [{ name = "Link (2)" }]
+game_objects = [
+    { name = "Credits Canvas" },
+    { name = "Credits Canvas (1)" }
+]
 
 [[block]]
 friendly_name = "Prison Escape!"
