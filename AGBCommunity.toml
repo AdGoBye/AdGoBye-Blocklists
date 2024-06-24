@@ -50,5 +50,5 @@ world_id = "wrld_e6569266-21cd-4275-8aef-47fcb7458931"
 game_objects = [
     { name = "Discord TV Ad (1)" },
     { name = "TV Prefab UNIQUE", position = { x = -4.366071, y = 3.072498, z = -54.21133 } },
-    { name = "Poster (9)", parent = { name = "Poster (9)" } }
+    { name = "Poster (9)", parent = { name = "Rooftop" } }
 ]
