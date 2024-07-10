@@ -12,10 +12,20 @@ friendly_name = "Popcorn Palace"
 world_id = "wrld_266523e8-9161-40da-acd0-6bd82e075833"
 game_objects = [
     { name = "PosterManager" },
-    { name = "PhotoViewer" },
-    { name = "PhotoViewer (1)" },
-    { name = "PhotoViewer (2)" },
-    { name = "PhotoViewer (3)" }
+    # Not under PosterManager   
+    { name = "Nevermet PhotoData" },
+    { name = "NYX PhotoData" },
+    # Just in case
+    { name = "Nevermet viewer 1" },
+    { name = "Nevermet viewer 2" },
+    { name = "Nevermet viewer 3" },
+    { name = "NYX Viewer 1" },
+    { name = "NYX Viewer 2" },
+    { name = "NYX Viewer 3" },
+    # Ad on mini-chalkboards
+    { name = "NyxTrackers" },
+    # Weird image that pops up at spawn
+    { name = "nyx spawn" }
 ]
 
 [[block]]
@@ -81,7 +91,7 @@ game_objects = [
     { name = "TV Prefab UNIQUE", position = { x = -4.3660707, y = 3.0724978, z = -58.21133 } },
     # UI dynamically renabled here, so we'll need to disable the children instead.
     # This one is a collateral, but we lack a unique identifier to cleanly disable the ads on this. Really unfortunate.
-    { name = "Flyer Grid", parent = { name = "Flyer Canvas"}},
+    { name = "Flyer Grid", parent = { name = "Flyer Canvas" } },
 ]
 
 [[block]]
@@ -96,6 +106,6 @@ friendly_name = "The room of the rain"
 world_id = "wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a"
 game_objects = [
     { name = "Neverphone" }, # removes the phone
-    { name = "Horizontal_poster"}, # removes the horizontal nevermet poster
-    { name = "Quad (1)"} # removes the vertical SlimeVR poster
+    { name = "Horizontal_poster" }, # removes the horizontal nevermet poster
+    { name = "Quad (1)" } # removes the vertical SlimeVR poster
 ]
