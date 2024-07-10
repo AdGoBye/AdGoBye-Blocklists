@@ -101,3 +101,10 @@ game_objects = [
 friendly_name = "GeoLocator Remapped"
 world_id = "wrld_8abba687-ebfd-4356-846d-d069976df375"
 game_objects = [{ name = "PatreonBoard" }]
+
+[[block]]
+friendly_name = "Popcorn Palace"
+world_id = "wrld_266523e8-9161-40da-acd0-6bd82e075833"
+game_objects = [
+    {name = "Patreon Canvas"}
+]
