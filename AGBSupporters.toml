@@ -105,5 +105,5 @@ game_objects = [{ name = "PatreonBoard" }]
 friendly_name = "Popcorn Palace"
 world_id = "wrld_266523e8-9161-40da-acd0-6bd82e075833"
 game_objects = [
-    {name = "Patreon Canvas"}
+    {name = "LH1-09"} # Patreon Canvas
 ]
