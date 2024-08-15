@@ -11,21 +11,23 @@ game_objects = [{ name = "ADs" }]
 friendly_name = "Popcorn Palace"
 world_id = "wrld_266523e8-9161-40da-acd0-6bd82e075833"
 game_objects = [
-    { name = "PosterManager" },
+    { name = "DURX3NUIV" }, # PosterManager
     # Not under PosterManager   
-    { name = "Nevermet PhotoData" },
-    { name = "NYX PhotoData" },
+    { name = "3G15RT93" }, # Nevermet Photodata
+    { name = "-UW2F" }, # NYX Photodata
     # Just in case
-    { name = "Nevermet viewer 1" },
-    { name = "Nevermet viewer 2" },
-    { name = "Nevermet viewer 3" },
-    { name = "NYX Viewer 1" },
-    { name = "NYX Viewer 2" },
-    { name = "NYX Viewer 3" },
+    { name = "VQK4L" }, # Nevermet viewer 1
+    { name = "5X6CT9JPL" }, # Nevermet viewer 2
+    { name = "U3NSOY" }, # Nevermet viewer 3
+    { name = "U3LKOC3" }, # NYX Viewer 1
+    { name = "KL9UJ0UD" }, # NYX Viewer 2
+    { name = "V3O8CCXUZ" }, # NYX Viewer 3
     # Ad on mini-chalkboards
-    { name = "NyxTrackers" },
+    { name = "DA4BS3W" }, # NyxTrackers
     # Weird image that pops up at spawn
-    { name = "nyx spawn" }
+    { name = "_BYWV9WIG" }, # nyx spawn
+    # Fishtank Avi commission guy
+    { name = "UQ85UMZ" }
 ]
 
 [[block]]
